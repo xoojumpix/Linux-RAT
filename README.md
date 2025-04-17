@@ -6,10 +6,10 @@ This is a new Linux version of Millenium - an easy to use RAT without port forwa
 If you are interested, for 10$ (any crypto) I`ll generate a build for you
 <br> In the message please indicate:
 <br> 🔹New telegram bot token (@BotFather)
-<br> 🔹your chat ID/group chat ID (@userinfobot)
-<br> 🔹preferred app name after the installation
+<br> 🔹Your chat ID/group chat ID (@userinfobot)
+<br> 🔹Preferred app name after the installation
 <br> 🔹The text to show in the start messagebox (or no text)
-<br> 🔹preferred crypto to pay
+<br> 🔹Preferred crypto to pay
 <br> ⚠️**Important**: your telegram bot has to be started (you have to send the /start command to your bot before using the RAT)
 
 ## Features
