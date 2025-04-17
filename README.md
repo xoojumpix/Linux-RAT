@@ -1,5 +1,5 @@
 # 📜Millenium RAT for Linux
-This is a new Linux version of Millenium - an easy-to-use RAT without port forwarding, completely controlled from Telegram (you can also check the classic Millenium for Windows in my telegram channel: https://t.me/milleniumrat)
+This is a new Linux version of Millenium - an easy to use RAT without port forwarding, completely controlled from Telegram (you can also check the classic Millenium for Windows in my telegram channel: https://t.me/milleniumrat)
 <br> Please DM me in Telegram to buy: **@shinyenigma**
 
 ## Purchase
